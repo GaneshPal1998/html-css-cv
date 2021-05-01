@@ -1,0 +1,115 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5.625em;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.skill-h3 {
+    text-align: left;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    padding: 20px;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 50px 0 20px;
+    padding: 50px 0 20px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.skill-p {
+    text-align: left;
+}
+
+.skill-img13 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-img2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro-p {
+    color: #40514E;
+    margin: auto;
+    width: 30%;
+    line-height: 2;
+}
+
+.footer-link {
+    color: #EAF6F6;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    columns: #EAF6F6;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+    border-color: #EAF6F6;
+    margin: 50px auto;
+}
+
+.footer-p {
+    color: #EAF6F6;
+    padding: 20px 0;
+    font-size: 0.75rem;
+}
+
+.contact-me {
+    margin: 40px auto 60px;
+    width: 40%;
+}
